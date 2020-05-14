@@ -1,5 +1,5 @@
 # template-js
-Template for javascript projects.
+Template for Typescript projects.
 
 ### Usage
 
